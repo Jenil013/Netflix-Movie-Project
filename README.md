@@ -1,5 +1,7 @@
 # Netflix-Movie-Project
 
+
+
 Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
 Given the large number of movies and series available on the platform, it is a perfect opportunity to show my exploratory data analysis skills. My friend has also been brushing up on their Python skills and has taken a first crack at a CSV file containing Netflix data. He believe that the average duration of movies has been declining. Using my friend's initial research, i will dive into the Netflix data to see if I can determine whether movie lengths are actually getting shorter and explain some of the contributing factors, if any.
